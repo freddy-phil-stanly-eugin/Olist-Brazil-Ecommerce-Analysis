@@ -1,1 +1,1 @@
-Dashboard files and screenshots.
+Dashboard files.
